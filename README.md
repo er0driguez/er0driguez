@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **evrodriguezdev@gmail.com**
 
-- 📄 Learn more about my experiences [https://tinyurl.com/EvelynRodriguezResume](https://tinyurl.com/EvelynRodriguezResume)
+- 📄 Learn more about my experiences [https://tinyurl.com/EvelynRodriguezFSResume](https://tinyurl.com/EvelynRodriguezFSResume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
