@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Evelyn Rodriguez</h1>
 <h3 align="center">A passionate backend developer from New York City with a love of all things data.</h3>
 
-- 🔭 I’m currently working on **an app that leverages generative AI to help users plan vacations**
+- 🔭 I’m currently working on **building data visualizations with D3 and writing better software tests for QA!**
 
-- 🌱 I’m currently learning **Java, building data visualizations with D3 and writing better software tests for QA!**
+- 🌱 I’m currently learning **Java and Spring Boot.**
 
-- 👯 I’m looking to collaborate on **open source projects with a focus on backend or data engineering**
+- 👯 I’m looking to collaborate on **open source projects with a focus on backend or data engineering.**
 
 - 📫 How to reach me **evrodriguezdev@gmail.com**
 
