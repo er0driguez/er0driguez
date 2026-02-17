@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **evrodriguezdev@gmail.com**
 
-- 📄 Learn more about my experiences [My Resume](https://drive.google.com/file/d/141AeWh0hMdgxtmWJHXnPLeQFGkTA-9WQ/view?usp=sharing)
+- 📄 Learn more about my experiences: [My Resume](https://drive.google.com/file/d/141AeWh0hMdgxtmWJHXnPLeQFGkTA-9WQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
