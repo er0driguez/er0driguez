@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java and Spring Boot.**
 
-- 👯 I’m looking to collaborate on **open source projects with a focus on backend or data engineering.**
+- 👯 I’m looking to collaborate on **open source projects with a focus on data engineering.**
 
 - 📫 How to reach me **evrodriguezdev@gmail.com**
 
